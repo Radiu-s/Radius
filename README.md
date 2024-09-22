@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alperen.
-- 👀 I’m interested in Programming With C#, JS-HTML-CSS
+- 👀 I’m interested in Programming With C#,MySQL, JS-HTML-CSS
 - 🌱 I’m currently learning: HTML-CSS 
 - 📫 How to reach me :
 Discord: myhonestreaction9
