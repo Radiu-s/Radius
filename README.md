@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radius.
-- 👀 I’m interested in Programming With C#,MySQL,Node JS,Vue
+- 👀 I’m interested in Programming With C#,MySQL,Node JS,Vue,Python
 - 🌱 I’m currently learning: CSS
 - 📫 You can reach me from **discord: radius._.**
 - ✨ You can contact me for Game Development
