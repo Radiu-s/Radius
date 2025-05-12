@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack
 
-- 🔹 Languages: C#, JavaScript (Node.js), Python, SQL
+- 🔹 Languages: C#, PHP, JavaScript (Node.js), Python, SQL
 - 🔹 Frontend: HTML, Vue.js
 - 🔹 Favorite Frameworks: Laravel, .NET
 - 🔹 Backend: Express, MariaDB
