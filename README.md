@@ -17,7 +17,7 @@
 - [tatlicin.com](https://tatlicin.com) — QR Menu and Restaurant Table Management System
 - **MUHO** — Real Life AI Agent Like JARVIS  
 - **Smart Pet Feeder** — Arduino + Load Cell + Servo + LCD
-- **Fivem and Ragemp Roleplay Server Developments**
+- **Fivem and Ragemp** — Roleplay Server Developments
 
 ## 📫 Reach Me
 
